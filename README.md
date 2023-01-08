@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Full Stack Development at MicroverInc.
+- 🎓 &nbsp; Studying Full Stack Development at [Microverse Inc](https://www.microverse.org/?grsf=martin-9isn0t).
 - 💼 &nbsp; Working as a Free-lance Front End Developer.
 - 🌱 &nbsp; Learning more about Front and Back End Development.
 
