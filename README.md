@@ -1,4 +1,4 @@
-# Hello, I'm Martin.
+# Hello, I'm Martin Karugaba.
 
 <!--
 **martinkarugaba/martinkarugaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
