@@ -41,10 +41,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://github.com/martinkarugaba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinkarugaba&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkarugaba&theme=buefy&layout=compact" />
-</a>
+[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinkarugaba)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
