@@ -40,10 +40,10 @@ Here are some ideas to get you started:
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-<p align='center'>
+
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinkarugaba)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
