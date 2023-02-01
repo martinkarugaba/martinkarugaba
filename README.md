@@ -38,12 +38,22 @@ Here are some ideas to get you started:
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
+  <br/>
 
-<br/>
-
+<!-- 
+<p align="center">
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinkarugaba)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </p> -->
+  
+<a href="https://github.com/martinkarugaba" align="center">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=martinkarugaba&show_icons=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkarugaba&show_icons=true&layout=compact" />
+</a>
+
+<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
