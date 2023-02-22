@@ -41,17 +41,17 @@ Here are some ideas to get you started:
   
   <br/>
 
-<!-- 
-<p align="center">
+
+<a align="center">
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinkarugaba)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </p> -->
+  </a>
   
-<a href="https://github.com/martinkarugaba" align="center">
+<!-- <a href="https://github.com/martinkarugaba" align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=martinkarugaba&show_icons=true" />
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkarugaba&show_icons=true&layout=compact" />
-</a>
+</a> -->
 
 <br/>
 
