@@ -30,6 +30,11 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
+- 💻 &nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=0078D6)
+  ![MacOS](https://img.shields.io/badge/-macOS-333333?style=flat&logo=apple)
+  
   <br/>
 
 <a href="https://github.com/martinkarugaba">
@@ -42,9 +47,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://twitter.com/martin_karugaba"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-martin_karugaba-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:martinkarugaba21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-martinkarugaba21@gmail.com-red?style=flat-square&logo=gmail&logoColor=FF7043"></a>
-<a href="https://www.linkedin.com/in/martin-karugaba-822442173//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Martin%20Karugaba-blue?style=flat-square&logo=linkedin&logoColor=039BE5"></a>
+  <a href="https://twitter.com/martin_karugaba"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-martin_karugaba-blue?style=flat-square&logo=twitter"></a>
+  <a href="mailto:martinkarugaba21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-martinkarugaba21@gmail.com-red?style=flat-square&logo=gmail&logoColor=FF7043"></a>
+  <a href="https://www.linkedin.com/in/martin-karugaba-822442173//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Martin%20Karugaba-blue?style=flat-square&logo=linkedin&logoColor=039BE5"></a>
 </p>
 
 ⭐️ From [Martin Karugaba](https://github.com/martinkarugaba)
