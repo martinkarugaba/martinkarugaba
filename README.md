@@ -1,26 +1,10 @@
 # Hi there! I'm Martin
 
-<!--
-**martinkarugaba/martinkarugaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Full Stack Development at [Microverse Inc](https://www.microverse.org/?grsf=martin-9isn0t).
 - 💼 &nbsp; Working as a Free-lance Front End Developer.
-- 🌱 &nbsp; Learning more about Front and Back End Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -29,8 +13,15 @@ Here are some ideas to get you started:
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NEXT.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  
+  
+- 🖌️ &nbsp;
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass&logoColor=EA80FC)
+  
+- 🛢 &nbsp;
+  ![postgreSQL](https://img.shields.io/badge/-postgreSQL-333333?style=flat&logo=postgresql)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -41,19 +32,10 @@ Here are some ideas to get you started:
   
   <br/>
 
-<a align="center">
-
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinkarugaba)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/martinkarugaba">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinkarugaba&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkarugaba&theme=buefy&layout=compact" />
 </a>
-  
-<!-- <a href="https://github.com/martinkarugaba" align="center">
-  
-  <img align="center" height="180em" src="[https://github-readme-stats.vercel.app/api?username=martinkarugaba&show_icons=true](https://github-readme-stats.vercel.app/api?username=martinkarugaba)" />
-  
-  <img align="center" height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=martinkarugaba&show_icons=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)" />
-</a> -->
 
 <br/>
 
