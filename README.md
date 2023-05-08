@@ -15,13 +15,16 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![NEXT.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   
-  
 - 🖌️ &nbsp;
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass&logoColor=EA80FC)
   
 - 🛢 &nbsp;
   ![postgreSQL](https://img.shields.io/badge/-postgreSQL-333333?style=flat&logo=postgresql)
+  
+- 🧪 &nbsp;
+![Testing Library](https://img.shields.io/badge/-ReactTestingLibrary-333333?style=flat&logo=testinglibrary&logoColor=E33332)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
