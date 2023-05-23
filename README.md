@@ -32,7 +32,7 @@
   ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=212121)
   
 - 🛢 &nbsp;
-  ![postgreSQL](https://img.shields.io/badge/-postgreSQL-4169E1?style=flat&logo=postgresql&logoColor=212121)
+  ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-4169E1?style=flat&logo=postgresql&logoColor=212121)
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-212121?style=flat&logo=visual-studio-code&logoColor=007ACC)
