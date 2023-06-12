@@ -1,12 +1,12 @@
 # Hi there! I'm Martin
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Currently Studying Full Stack Development at [Microverse Inc](https://www.microverse.org/?grsf=martin-9isn0t).
 - 💼 &nbsp; Free-lance Web Developer.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h2> 🛠 &nbsp;Tech Stack</h2>
 
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=212121)
@@ -51,7 +51,7 @@
 
 <!-- <br/> -->
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h2> 🤝🏻 &nbsp;Connect with Me </h2>
 
 <p align="center">
   <a href="https://twitter.com/martin_karugaba"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-martin_karugaba-blue?style=flat&logo=twitter"></a>
