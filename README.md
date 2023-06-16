@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Currently Studying Full Stack Development at [Microverse Inc](https://www.microverse.org/?grsf=martin-9isn0t).
-- 💼 &nbsp; Free-lance Web Developer.
+- 💼 &nbsp; Actively undertaking freelance projects and open to a full-time role.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
