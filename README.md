@@ -1,4 +1,4 @@
-# Hello there! I'm Martin
+# Hello there! I'm Martin.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
