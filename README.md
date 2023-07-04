@@ -41,15 +41,15 @@
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=212121)
   ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=212121)
   ![MacOS](https://img.shields.io/badge/-macOS-212121?style=flat&logo=apple)
-  
-<!--   <br/>
 
+<!--  
+<br/>
 <a href="https://github.com/martinkarugaba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinkarugaba&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkarugaba&theme=buefy&layout=compact" />
-</a> -->
-
-<!-- <br/> -->
+</a>
+<br/>
+-->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
