@@ -8,34 +8,43 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🌐 &nbsp;
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=212121)
-  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
+- 🖋 &nbsp;
   ![NEXT.js](https://img.shields.io/badge/-Next.js-212121?style=flat&logo=next.js)
-  ![Typescript](https://img.shields.io/badge/-TypeScript-212121?style=flat&logo=typescript)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=212121)
+  ![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux)
+  ![Zustand](https://img.shields.io/badge/-Zustand-e28743?style=flat&logo=zustand)
   
-
 - 🏗️ &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-212121?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-TypeScript-212121?style=flat&logo=typescript)
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby)
   ![HTML5](https://img.shields.io/badge/-HTML5-212121?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=212121)
+
+- 🖌️ &nbsp;
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=212121)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=fafafa)
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=212121)
   ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=212121)
   
-- ⚙️ &nbsp;
+- ⌛ &nbsp;
+  ![Testing Library](https://img.shields.io/badge/-React_Testing_Library-E33332?style=flat&logo=testinglibrary&logoColor=212121)
+  ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=212121)
+  ![Rspec](https://img.shields.io/badge/-RSpec-C21325?style=flat&logo=rspec&logoColor=212121)
+  
+- 🚩 &nbsp;
+  ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=ESLint&logoColor=212121)
+  ![Rubocop](https://img.shields.io/badge/-RuboCop-000000?style=flat&logo=rubocop&logoColor=fafafa)
+  
+- 🔄 &nbsp;
   ![Git](https://img.shields.io/badge/-Git-212121?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-212121?style=flat&logo=markdown)
   
-- 🧪 &nbsp;
-  ![Testing Library](https://img.shields.io/badge/-ReactTestingLibrary-E33332?style=flat&logo=testinglibrary&logoColor=212121)
-  ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=212121)
-  
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=212121)
+  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=212121)
 
-- 🔧 &nbsp;
+- 🏗️ &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-212121?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 - 💻 &nbsp;
