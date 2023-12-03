@@ -13,13 +13,14 @@
   ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
   ![NEXT.js](https://img.shields.io/badge/-Next.js-212121?style=flat&logo=next.js)
   ![Typescript](https://img.shields.io/badge/-TypeScript-212121?style=flat&logo=typescript)
-  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=212121)
   
 
 - 🏗️ &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-212121?style=flat&logo=HTML5)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-212121?style=flat&logo=javascript)
+  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby)
+  ![HTML5](https://img.shields.io/badge/-HTML5-212121?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=212121)
+  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=212121)
   ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=212121)
   
 - ⚙️ &nbsp;
