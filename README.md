@@ -64,7 +64,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="https://twitter.com/martin_karugaba"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-martin_karugaba-blue?style=flat&logo=x&logoColor=000000"></a>
+  <a href="https://twitter.com/martin_karugaba"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-martin__karugaba-blue?style=flat&logo=x&logoColor=000000"></a>
   <a href="mailto:martinkarugaba21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-martinkarugaba21@gmail.com-red?style=flat&logo=Gmail&logoColor=FF7043"></a>
   <a href="https://www.linkedin.com/in/martin-karugaba-822442173//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Martin%20Karugaba-blue?style=flat&logo=linkedin&logoColor=039BE5"></a>
 </p>
