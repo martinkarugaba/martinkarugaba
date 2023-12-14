@@ -1,12 +1,14 @@
-# Hello there! I'm Martin.
+# Hello, I'm Martin. A Passionate Full-stack web developer.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Currently Studying Full Stack Development at [Microverse Inc](https://www.microverse.org/?grsf=martin-9isn0t).
-- 💼 &nbsp; Actively undertaking freelance projects and open to a full-time role.
+- 🚀 &nbsp; I thrive on exploring new technologies and crafting innovative software solutions along with quick hacks.
+- 🎓 &nbsp; Currently immersed in the world of Full Stack Development at [Microverse Inc](https://www.microverse.org/?grsf=martin-9isn0t).
+- 👨‍🏫 &nbsp; As a mentor, I enjoy sharing my knowledge and helping others grow in their coding journey.
+- 💼 &nbsp; Actively engaged in freelance projects and open to exciting full-time opportunities.
+- 🤝 &nbsp; Let's build something amazing together! 🌟
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## Tech Stack
 
 - 🖋 &nbsp;
   ![NEXT.js](https://img.shields.io/badge/-Next.js-212121?style=flat&logo=next.js)
