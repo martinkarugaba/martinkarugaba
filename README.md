@@ -1,4 +1,4 @@
-# Hello, I'm Martin. A Passionate Full-stack web developer.
+# Hi 👋 I'm Martin, A Passionate Full-stack web developer.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
