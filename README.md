@@ -1,4 +1,4 @@
-# Hi 👋 I'm Martin, A Passionate Full-stack web developer.
+# Hi 👋 I'm Martin, A Full-stack web developer.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -11,14 +11,15 @@
 ## Tech Stack
 
 - 🖋 &nbsp;
-  ![NEXT.js](https://img.shields.io/badge/-Next.js-212121?style=flat&logo=next.js)
+  ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-D30001?style=flat&logo=rubyonrails)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=212121)
+  ![NEXT.js](https://img.shields.io/badge/-Next.js-212121?style=flat&logo=next.js)
   ![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux)
   ![Zustand](https://img.shields.io/badge/-Zustand-e28743?style=flat&logo=zustand)
   
 - 🏗️ &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-212121?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-TypeScript-212121?style=flat&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-212121?style=flat&logo=javascript)
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby)
   ![HTML5](https://img.shields.io/badge/-HTML5-212121?style=flat&logo=HTML5)
 
@@ -57,7 +58,7 @@
 
 <br/>
 <a href="https://github.com/martinkarugaba">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinkarugaba&theme=buefy&show_icons=true" />-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinkarugaba&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkarugaba&theme=buefy&layout=compact" />
 </a>
 <br/>
