@@ -1,11 +1,10 @@
-# Hi 👋 I'm Martin, A Full-stack web developer.
+# Hi 👋 I'm Martin.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🚀 &nbsp; I thrive on exploring new technologies and crafting innovative software solutions along with quick hacks.
-- 🎓 &nbsp; Currently immersed in the world of Full Stack Development at [Microverse Inc](https://www.microverse.org/?grsf=martin-9isn0t).
 - 👨‍🏫 &nbsp; As a mentor, I enjoy sharing my knowledge and helping others grow in their coding journey.
-- 💼 &nbsp; Actively engaged in freelance projects and open to exciting full-time opportunities.
+- 💼 &nbsp; Actively engaged in full stack development and open to exciting full-time/partime/contract opportunities.
 - 🤝 &nbsp; Let's build something amazing together! 🌟
 
 ## Tech Stack
