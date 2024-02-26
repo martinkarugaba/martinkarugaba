@@ -11,9 +11,9 @@
 
 - 🖋 &nbsp;
   ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-D30001?style=flat&logo=rubyonrails)
+  ![NEXT.js](https://img.shields.io/badge/-Next.js-212121?style=flat&logo=next.js)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=212121)
   ![ReactNative](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=212121)
-  ![NEXT.js](https://img.shields.io/badge/-Next.js-212121?style=flat&logo=next.js)
 
 - 🏗️ &nbsp;
   ![Typescript](https://img.shields.io/badge/-TypeScript-212121?style=flat&logo=typescript)
