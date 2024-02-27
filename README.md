@@ -1,4 +1,4 @@
-# Hello 👋 I'm Martin.
+# Hello 👋 I'm Martin, a full stack developer.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -6,6 +6,7 @@
 - 👨‍🏫 &nbsp; As a mentor, I enjoy sharing my knowledge and helping others grow in their coding journey.
 - 💼 &nbsp; Actively engaged in full stack development and open to exciting full-time/partime/contract opportunities.
 - 🤝 &nbsp; Let's build something amazing together! 🌟
+
 
 ## Tech Stack
 
