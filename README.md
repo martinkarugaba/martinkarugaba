@@ -1,4 +1,4 @@
-# Hello 👋 I'm Martin, a full stack developer.
+# Hello 👋 I'm Martin.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
