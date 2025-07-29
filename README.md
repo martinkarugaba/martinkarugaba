@@ -4,8 +4,10 @@
 
 - 🚀 &nbsp; I thrive on exploring new technologies and crafting innovative software solutions along with quick hacks.
 - 👨‍🏫 &nbsp; As a mentor, I enjoy sharing my knowledge and helping others grow in their coding journey.
-- 💼 &nbsp; Actively engaged in full stack development and open to exciting full-time/partime/contract opportunities.
+- 💼 &nbsp; Actively engaged in full stack development and open to exciting full-time/part-time/contract opportunities.
+- 🎓 &nbsp; Proud graduate of Microverse.org, an online coding school that honed my skills in real-world development and global collaboration.
 - 🤝 &nbsp; Let's build something amazing together! 🌟
+
 
 
 ## Tech Stack
